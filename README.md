@@ -8,10 +8,10 @@ I'm currently working on:
 
 Some things that I have been doing at Stax:
 * design, build and implement customer-facing APIs in Python (Flask, OpenAPI, SQL Alchemy), using serverless AWS technology (APIGW, Lambda, Step Functions)
-* automate and maintain the CI/CD pipeline using BuildKite and AWS CodeBuild.
-* implement and extend an IDAM (Identity and Access Management) solution using open-source software (KeyCloak).
-* develop and distribute a public Python SDK (Software Development Kit) for interacting with our applications.
-* develop Infrastructure as Code (IaC) to deploy and host the customer-facing applications.
+* automate and maintain the CI/CD pipeline using BuildKite and AWS CodeBuild
+* implement and extend an IDAM (Identity and Access Management) solution using open-source software (KeyCloak)
+* develop and distribute a public Python SDK (Software Development Kit) for interacting with our applications
+* develop Infrastructure as Code (IaC) to deploy and host the customer-facing applications
 
 
 # GitHub Stats 📈
